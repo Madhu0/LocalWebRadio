@@ -1,0 +1,19 @@
+{
+  "name": "localwebradio",
+  "version": "1.0.0",
+  "description": "Play songs and audio to in a local channel and enjoy",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madhu0/LocalWebRadio.git"
+  },
+  "author": "Madhusudhan Reddy K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madhu0/LocalWebRadio/issues"
+  },
+  "homepage": "https://github.com/Madhu0/LocalWebRadio#readme"
+}
